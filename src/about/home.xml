@@ -6,6 +6,7 @@
     <sisältö>
         <linkkinappulat>
             <nappula kohde="https://testausserveri.github.io/testausbrowser/index.xml">Testausbrowser-portaaliin</nappula>
+            <nappula kohde="http://syvis.net/saab.xml">Saab-sivu</nappula>
         </linkkinappulat>
         <pienempiotsikko>Käytät Testausbrowser-versiota 1.0</pienempiotsikko>
         <tekstiä>

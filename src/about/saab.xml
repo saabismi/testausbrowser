@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testausxml>
+
+    <päähine>
+        <otsikko>Saabbisivu</otsikko>
+    </päähine>
+
+    <sisältö>
+
+        <otsikko>Tervetuloa ensimmäiselle Saabeista kertovalle testausnetin sivulle!</otsikko>
+
+        <tekstiä>
+            Saabit on parhaita autoja, varsinkin ne, jotka on valmistettu Suomessa Uudenkaupungin tehtaalla.
+        </tekstiä>
+
+        <kuva lähde="https://i.imgur.com/BMVsKvt.jpg" leveys="530" korkeus="320"></kuva>
+
+        <väli></väli>
+        <väli></väli>
+
+        <otsikko>Tässä vielä QR-koodi. Mihinköhän se vie?</otsikko>
+        <kuva lähde="https://i.imgur.com/8p9qgca.png" leveys="200" korkeus="200"></kuva>
+
+    </sisältö>
+</testausxml>
